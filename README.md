@@ -1,9 +1,13 @@
 V4PullToRefreshDemo
 ===================
-该文件用来测试和展示书写README的各种markdown语法。GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
+该代码用来展示如何使用原生V4中自带的下拉刷新控件，并且演示了不同的V4包中的下拉效果不一样。
 
 ****
 ###　　　　　　　　　　　　Author:Ted
 ###　　　　　　　　　 E-mail:xiong-wei@gmail.com
 
 ===========================
+
+
+###截图
+![](https://github.com/xiongwei-git/V4PullToRefreshDemo/blob/master/screenshots/high_v4.gif)
