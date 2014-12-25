@@ -10,4 +10,20 @@ V4PullToRefreshDemo
 
 
 ###截图
+* V4包版本  com.android.support:support-v4:21.0.2
 ![](https://github.com/xiongwei-git/V4PullToRefreshDemo/blob/master/screenshots/high_v4.gif)
+
+
+* V4包版本  com.android.support:support-v4:19.1.0
+![](https://github.com/xiongwei-git/V4PullToRefreshDemo/blob/master/screenshots/low_v4.gif)
+
+##如何快速切换高低版本的V4包  
+```Java
+dependencies {
+    /**高版本*/
+    //compile 'com.android.support:support-v4:21.0.2'
+    /**低版本*/
+    compile 'com.android.support:support-v4:19.1.0'
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+}
+```
