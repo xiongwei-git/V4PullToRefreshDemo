@@ -4,7 +4,7 @@ V4PullToRefreshDemo
 
 ****
 ###　　　　　　　　　　　　Author:Ted
-###　　　　　　　　　 E-mail:xiong-wei@gmail.com
+###　　　　　　　　　 E-mail:xiong-wei@hotmail.com
 
 ===========================
 
